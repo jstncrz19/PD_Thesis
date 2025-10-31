@@ -4,3 +4,4 @@
   spidev, RPi.GPIO, SX127x, pip
   # Config:
   SPI: on, VNC: on
+#hello pi
